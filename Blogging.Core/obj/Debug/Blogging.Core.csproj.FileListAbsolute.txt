@@ -1,0 +1,4 @@
+D:\Projects\lct-repo\blogging\trunk\Blogging.Core\bin\Debug\Blogging.Core.dll
+D:\Projects\lct-repo\blogging\trunk\Blogging.Core\bin\Debug\Blogging.Core.pdb
+D:\Projects\lct-repo\blogging\trunk\Blogging.Core\obj\Debug\Blogging.Core.dll
+D:\Projects\lct-repo\blogging\trunk\Blogging.Core\obj\Debug\Blogging.Core.pdb
