@@ -7,5 +7,6 @@ namespace Blogging.Web.Models
 {
     public class LoginModel
     {
+        // tét commit
     }
 }
